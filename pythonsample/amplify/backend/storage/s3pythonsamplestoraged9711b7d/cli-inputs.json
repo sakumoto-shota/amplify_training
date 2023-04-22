@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3pythonsamplestoraged9711b7d",
+  "bucketName": "pythonsample-storage-d9711b7d",
+  "policyUUID": "b08dd15d",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ",
+    "CREATE_AND_UPDATE",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

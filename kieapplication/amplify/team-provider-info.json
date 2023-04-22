@@ -1,0 +1,23 @@
+{
+  "kieapp": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kieapplication-kieapp-133228-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-kieapplication-kieapp-133228-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-kieapplication-kieapp-133228-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-kieapplication-kieapp-133228-deployment",
+      "UnauthRoleName": "amplify-kieapplication-kieapp-133228-unauthRole",
+      "StackName": "amplify-kieapplication-kieapp-133228",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:711556954185:stack/amplify-kieapplication-kieapp-133228/5c063ec0-df34-11ed-a998-0a7d1ba5dccc",
+      "AmplifyAppId": "d1b1uhg89ifr46"
+    },
+    "categories": {
+      "auth": {
+        "kieapplication": {}
+      },
+      "storage": {
+        "s3kieapplicationstorage162501d7": {}
+      }
+    }
+  }
+}

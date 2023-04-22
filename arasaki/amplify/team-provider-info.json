@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-arasaki-dev-103552-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-arasaki-dev-103552-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-arasaki-dev-103552-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-arasaki-dev-103552-deployment",
+      "UnauthRoleName": "amplify-arasaki-dev-103552-unauthRole",
+      "StackName": "amplify-arasaki-dev-103552",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:711556954185:stack/amplify-arasaki-dev-103552/b182e510-df1b-11ed-a61f-0604b3c40ae5",
+      "AmplifyAppId": "d375ruqogta2e"
+    },
+    "categories": {
+      "auth": {
+        "arasaki": {}
+      },
+      "storage": {
+        "s3arasakistoragef8152ea7": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ohamaapp-dev-102250-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-ohamaapp-dev-102250-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-ohamaapp-dev-102250-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-ohamaapp-dev-102250-deployment",
+      "UnauthRoleName": "amplify-ohamaapp-dev-102250-unauthRole",
+      "StackName": "amplify-ohamaapp-dev-102250",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:711556954185:stack/amplify-ohamaapp-dev-102250/de9904a0-df19-11ed-bcce-0ec6832c4313",
+      "AmplifyAppId": "d30lgg4ejy1zrn"
+    },
+    "categories": {
+      "auth": {
+        "ohamaapp": {}
+      },
+      "storage": {
+        "s3ohamaappstorage9fff3458": {}
+      }
+    }
+  }
+}

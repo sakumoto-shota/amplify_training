@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aikashimojiapp-dev-104509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-aikashimojiapp-dev-104509-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-aikashimojiapp-dev-104509-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-aikashimojiapp-dev-104509-deployment",
+      "UnauthRoleName": "amplify-aikashimojiapp-dev-104509-unauthRole",
+      "StackName": "amplify-aikashimojiapp-dev-104509",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:711556954185:stack/amplify-aikashimojiapp-dev-104509/fccb1780-df1c-11ed-948a-06024cc82509",
+      "AmplifyAppId": "d1vn1wum4oedqd"
+    },
+    "categories": {
+      "auth": {
+        "aikashimojiApp": {}
+      },
+      "storage": {
+        "s3aikashimojiappstorage19653cf9": {}
+      }
+    }
+  }
+}

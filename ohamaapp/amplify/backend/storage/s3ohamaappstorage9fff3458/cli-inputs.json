@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3ohamaappstorage9fff3458",
+  "bucketName": "ohamaapp-storage-9fff3458",
+  "policyUUID": "c763ee23",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "DELETE",
+    "READ",
+    "CREATE_AND_UPDATE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

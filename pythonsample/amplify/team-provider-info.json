@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pythonsample-dev-114858-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-pythonsample-dev-114858-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-pythonsample-dev-114858-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-pythonsample-dev-114858-deployment",
+      "UnauthRoleName": "amplify-pythonsample-dev-114858-unauthRole",
+      "StackName": "amplify-pythonsample-dev-114858",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:711556954185:stack/amplify-pythonsample-dev-114858/e7453590-df25-11ed-a805-06a38c535764",
+      "AmplifyAppId": "d2rar8tf17gt6e"
+    },
+    "categories": {
+      "auth": {
+        "pythonsample": {}
+      },
+      "storage": {
+        "s3pythonsamplestoraged9711b7d": {}
+      }
+    }
+  }
+}

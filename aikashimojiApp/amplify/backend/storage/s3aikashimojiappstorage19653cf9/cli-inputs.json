@@ -1,0 +1,16 @@
+{
+  "resourceName": "s3aikashimojiappstorage19653cf9",
+  "bucketName": "aikashimojiapp-storage-19653cf9",
+  "policyUUID": "249f4bef",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "DELETE",
+    "READ",
+    "CREATE_AND_UPDATE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

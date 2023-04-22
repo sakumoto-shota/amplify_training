@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-taiseiapp-dev-104535-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711556954185:role/amplify-taiseiapp-dev-104535-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711556954185:role/amplify-taiseiapp-dev-104535-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-taiseiapp-dev-104535-deployment",
+      "UnauthRoleName": "amplify-taiseiapp-dev-104535-unauthRole",
+      "StackName": "amplify-taiseiapp-dev-104535",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:711556954185:stack/amplify-taiseiapp-dev-104535/0c39e5c0-df1d-11ed-961a-0ad2b79aec81",
+      "AmplifyAppId": "d1cuwmbgoa8een"
+    }
+  }
+}
